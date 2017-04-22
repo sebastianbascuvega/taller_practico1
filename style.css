@@ -1,0 +1,80 @@
+body {
+  background:url('images/bg.jpeg');
+  margin:0;
+}
+
+
+/*.navbar {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background:url('images/bg.jpeg') no-repeat center center;
+}*/
+.menu {
+ background:transparent;
+}
+.primero {
+  text-align:center;
+  color:white;
+  padding: 100px;
+  float: 0 0 0 0;
+} 
+.segundo {
+  background-color: white;
+} 
+.tercero {
+  background-color: white;
+} 
+.container-fluid {
+ background:transparent;
+}
+
+.navbar-brand img {
+    width: 150;
+}
+.formulario1 {
+  background-color:white;
+  margin:0 auto;
+}
+.formulario2 {
+  background-color:white;
+  margin:0 auto;
+}
+.footer {
+  background-color: black;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  color: white;
+  text-align:center;
+  padding:30px;
+  margin:0;
+}
+
+.container-fluid {
+  margin:0;
+}
+.navbar {
+ margin:0;
+}
+
+.img-responsive {
+  width: 100%;
+  position: relative;
+}
+.imagen2 {
+  width:30%;
+  text-align:center;
+}
+.container {
+  text-align: center;
+}
+hr {
+border-top: 1px solid #ccc;
+margin: 0 auto;
+}
+
+@media (min-width: 1170px) { 
+  .container {
+  width:1000px;
+}
+}
